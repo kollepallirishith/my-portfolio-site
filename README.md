@@ -1,2 +1,2 @@
 # my-portfolio-site
-  Still under progress
+  Still under progress.
